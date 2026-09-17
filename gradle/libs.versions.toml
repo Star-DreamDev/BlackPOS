@@ -39,7 +39,7 @@ sqldelight = "2.2.1"
 spotless = "8.3.0"
 detekt = "1.23.8"
 
-coil3 = "3.4.0"
+coil3 = "3.6.2"
 
 androidGradlePlugin = "9.1.0"
 material3 = "1.4.0"
